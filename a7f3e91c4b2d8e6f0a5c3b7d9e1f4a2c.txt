@@ -1,4 +1,1 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://coolab1121-byte.github.io/stefano-moltedo/sitemap.xml
+a7f3e91c4b2d8e6f0a5c3b7d9e1f4a2c
